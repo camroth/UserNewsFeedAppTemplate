@@ -5,20 +5,24 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3135EC0D-C47A-4E9C-9AF8-F2C9B08306AC</string>
+	<string>B995E5AE-CD2B-4921-A003-F7DAAD7FB8B6</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Gampets</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>2A574876-BC81-47EF-B95C-3B815250FCE1</key>
 		<string>https://github.com/ProjectCircle14/PC_iOS.git</string>
+		<key>9EED1584-6A8F-4C2A-8D04-1C2F50E1D42A</key>
+		<string>https://github.com/fawrkes/Gampets.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Gampets/Gampets/Gampets.xcodeproj/project.xcworkspace</string>
+	<string>Gampets/Main Repo/Gampets/Gampets.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2A574876-BC81-47EF-B95C-3B815250FCE1</key>
-		<string>../../../..</string>
+		<string>../../../../..</string>
+		<key>9EED1584-6A8F-4C2A-8D04-1C2F50E1D42A</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/ProjectCircle14/PC_iOS.git</string>
@@ -28,6 +32,14 @@
 	<string>2A574876-BC81-47EF-B95C-3B815250FCE1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EED1584-6A8F-4C2A-8D04-1C2F50E1D42A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Gampets</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
