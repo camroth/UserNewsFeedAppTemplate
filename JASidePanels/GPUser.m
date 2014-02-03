@@ -14,6 +14,7 @@
 - (id) initWithPFUser: (PFUser *) pfuser
 {
     self = [super init];
+    
     if (self)
     {
         self.userName = [pfuser username];

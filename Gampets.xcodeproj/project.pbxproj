@@ -38,6 +38,7 @@
 		5D0E3152188CF01C00EAE1FF /* TwitterDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3141188CF01C00EAE1FF /* TwitterDown.png */; };
 		5D3C29811894ACA600AA0CA7 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D0E3118188CDDA600EAE1FF /* Security.framework */; };
 		5D435913188D91B800C5396B /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D435912188D91B800C5396B /* Parse.framework */; };
+		5D4B8001189F3292000F9B7C /* GPRootView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D4B8000189F3292000F9B7C /* GPRootView.m */; };
 		5D6F10361893319D00B05B61 /* GPUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D6F10351893319D00B05B61 /* GPUser.m */; };
 		5D6F112F1893517500B05B61 /* ad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D6F10381893517400B05B61 /* ad.png */; };
 		5D6F11301893517500B05B61 /* ae.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D6F10391893517400B05B61 /* ae.png */; };
@@ -347,6 +348,8 @@
 		5D0E3140188CF01C00EAE1FF /* Twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Twitter.png; sourceTree = "<group>"; };
 		5D0E3141188CF01C00EAE1FF /* TwitterDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TwitterDown.png; sourceTree = "<group>"; };
 		5D435912188D91B800C5396B /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		5D4B7FFF189F3292000F9B7C /* GPRootView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GPRootView.h; sourceTree = "<group>"; };
+		5D4B8000189F3292000F9B7C /* GPRootView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GPRootView.m; sourceTree = "<group>"; };
 		5D6F10341893319D00B05B61 /* GPUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GPUser.h; sourceTree = "<group>"; };
 		5D6F10351893319D00B05B61 /* GPUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GPUser.m; sourceTree = "<group>"; };
 		5D6F10381893517400B05B61 /* ad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad.png; sourceTree = "<group>"; };
@@ -1077,6 +1080,8 @@
 			children = (
 				5D0E3127188CEA2100EAE1FF /* GPLogInViewController.h */,
 				5D0E3128188CEA2100EAE1FF /* GPLogInViewController.m */,
+				5D4B7FFF189F3292000F9B7C /* GPRootView.h */,
+				5D4B8000189F3292000F9B7C /* GPRootView.m */,
 				5D0E3129188CEA2100EAE1FF /* GPSignUpViewController.h */,
 				5D0E312A188CEA2100EAE1FF /* GPSignUpViewController.m */,
 				9568132916373ACB007B3602 /* GPDebugViewController.h */,
@@ -1433,6 +1438,7 @@
 				9561AD1915130F10005889C6 /* GPAppDelegate.m in Sources */,
 				5DF462D61890AC3800285F80 /* GPBattle.m in Sources */,
 				5D6F10361893319D00B05B61 /* GPUser.m in Sources */,
+				5D4B8001189F3292000F9B7C /* GPRootView.m in Sources */,
 				9561AD1A15130F10005889C6 /* GPCenterViewController.m in Sources */,
 				9561AD1B15130F10005889C6 /* GPLeftViewController.m in Sources */,
 				5DF462DE1890B04700285F80 /* GPBattleUIParticipant.m in Sources */,
